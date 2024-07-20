@@ -1,1 +1,2 @@
 # PersonalPortfolio
+I have built a personal portfolio website that showcases my skills, projects, and accomplishments as a web developer. I Design an attractive and visually appealing layout that captures visitors' attention and I included a home page with a captivating headline, photo, and summary of my skills and I provide an "About Me" section with a detailed background, education, and professional experience.
